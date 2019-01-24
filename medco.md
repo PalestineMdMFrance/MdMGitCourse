@@ -2,9 +2,6 @@
 
 ### Aqui los cambios de Medco
 
-* Primer cambio
-* Segundo cambio
-* Tercer cambio
 
 #### Lista de tareas:
 
