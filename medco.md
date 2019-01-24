@@ -15,10 +15,13 @@
 1. Voy a crear un archivo de R markdown para ver si se activa preview
 2. Voy a poner tambien el html de prueba
 
-  |   |  
---|---|--
-  |   |  
-  |   |  
 
+## __ Nueva Sección __
 
-{captureBefore} [x] Tarea 1 usando editor
+- Tarea sin numerar 1
+- Tarea sin numerar 2
+
+**Encabezado 1**|**Encabezado 2**|**Encabezado 3**
+--|--|--
+Celda1|Celda2|Celda3
+Celda4|Celda5|Celda6
